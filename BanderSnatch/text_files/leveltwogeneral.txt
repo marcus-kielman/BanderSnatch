@@ -1,0 +1,10 @@
+In this part of the training you'll learn the flaws and ways to combat the S-BOS.
+This version utilizes the ability to manipulate structures and processes in the OS.
+As you know, a process can be used to execute certain tasks in an operating system.
+When the BOS first attempted to take over the world, it would create a certain
+series of processes to read and write kill commands to a death ray. To stop these
+commands from running, we had to either find the incoming processes being ran from
+the OS, or remove the kill commands that were being written to the death ray. In
+this part of the training, you will use these methods to stop the S-BOS. Be cautious.
+Multiple processes can be vital in triggering the death ray, and any wrong process
+killed will trigger an attack. If you require any assistance, type help.

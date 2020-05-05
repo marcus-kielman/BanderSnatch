@@ -1,0 +1,4 @@
+
+Writing process in file
+Death ray opening and reading file
+Death Ray Stopped, +100 points

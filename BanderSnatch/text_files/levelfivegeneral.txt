@@ -1,0 +1,13 @@
+It looks like your training will have to be completed for the time being. Effective
+immediately, you will now be assigned to combat the BOS, and find any secret
+information that can accomplish this. Our researchers have discovered that a new
+feature on the BOS now allows it to communicate with other operating systems through
+a network. This can not only allow the BOS to communicate, but control the operating
+systems, including the S-BOS unfortunately. To attain secret messages needed to stop
+the BOS, you will have to attempt a Man-In-The-Middle attack. This will trick the
+BOS into thinking that it is conferring with the S-BOS when it is actually you.
+In this mission you will need the S-BOS' and the BOS' IP address, along with the
+secret password used to shut down the BOS, and the file that will trigger this in it's
+filesystem. Once you have accomplished this, run the block program to block any further
+information to the S-BOS. Be cautious. Any file sent can also be used to inform the
+BOS of your whereabouts and jeopardize the entire operation. 

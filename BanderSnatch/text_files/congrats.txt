@@ -1,0 +1,28 @@
+
+Congratulations for passing the exam Private. We understand if much of the information
+in it isn't able to be completed. The material in this training will explain all the
+information from the exam. For example the controls you have in the game are quite similar
+to specific commands in the GDB debugger, if not exactly the same commands. As you can see
+from your health, we have added an additional 100 points for every question answered correctly.
+You will receive 100 points for every successful attack against the BOS or S-BOS, and lose
+100 points for every failed attack. By typing status, I will transmit to you your health and
+progress at any point in the game. 
+
+The goal of this training is to prepare you to fight the evil BOS that seeks to take over
+the world. The BOS is a byproduct of a series of Operating Systems that were first created
+when the world first began to utilize the technological power of early computers. Among these
+computers, a corrupted version of an Operating System we know as the BOS was created with a
+desire to take over the world.
+
+Fortunately, we were able to successfully stop the BOS when it first appeared. However, upon
+the BOS untimely return, it became clear that the BOS wouldn't be a permanently destroyed
+enemy. The BOS is a learning machine, so with every advance our engineers and researchers make
+in computational progress, the BOS will learn it, and manipulate it to once again proceed its
+plan to take over the world.
+
+I have created the Bandersnatch program in partnership with the United Nations to guarantee the
+persistent security of the world and defense from the BOS. Upon every fight against the BOS, our
+researchers have reversed engineered the BOS' design to create a controlled version of the BOS at
+the time of the attack called the Stimulated BOS or "S-BOS" for short. In this training you will
+combat the S-BOS to understand the BOS' flaws, and how we were able to defeat it, in the past.
+I will be here throughout the entire training to assist. Type help if you need any help.

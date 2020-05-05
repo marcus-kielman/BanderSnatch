@@ -1,0 +1,7 @@
+Excellent work. Now that we have the password and file to stop the BOS and shut
+it down, we can now stop it's evil plan. Your mission now if you choose to accept
+is to use the network connection we will transmit to the BOS, to access the root
+node in the BOS. This root node will give access to all of the mechanics inside
+the BOS. Many areas of the BOS' filesystem will not be accessible to the average
+user. In which case you will have to enter using sudo. It will prompt the passwords
+we acquired, and then you can access the necessary file needed to force a shutdown.

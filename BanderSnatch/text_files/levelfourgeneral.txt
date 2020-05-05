@@ -1,0 +1,13 @@
+In this part of the training, the S-BOS will utilize memory management and virtual
+memory to control memory to create multiple death rays to fire. When the BOS attacked
+using this Operating System concept, it was accomplished using the built-in malloc()
+function in C. With paging, this can be a powerful tool to control various heaps
+of memory. With virtualizing the memory, you can further optimize a program and
+trick it to use less memory. The main flaw with this is feature is the potential
+of a segmentation fault. This can occur when a program or process attempts to
+access a part of memory that isn't allocated.
+
+In this part of the training, you will find the correct values to cause a segmentation
+fault in each of the objects allocated into memory. It is important to find the correct
+space to change the allocation to. Any allocation to a different number will make the
+S-BOS aware of any interferences occurring in allocating the memory.

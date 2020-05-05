@@ -1,0 +1,25 @@
+In this part of the training, the S-BOS will utilize concurrency to interact with
+the death ray. A thread is important to the structure of an operating system, because
+it allows multiple processes to share the same memory addresses when running, allowing
+for a greater amount of efficiency, and makes it more difficult to find the correct
+files and processes needed to stop the S-BOS from reaching the death ray. However, there
+are a series of flaws.
+
+When the BOS attempted to attack once again with this, he used a specific algorithm for
+scheduling each thread called "Round Robin." This offers threads to have an equal amount
+of time to be completed before switching to another thread. In this part of the training,
+you will manipulate the threads and burst times in such a way that causes a deadlock to
+occur in the S-BOS.
+
+When this occurs, the death ray will wait for a thread from the S-BOS to fire, while the S-BOS
+is simultaneously waits for the death ray to send a thread to the S-BOS to inform that it has fired.
+As a result, the S-BOS and death ray will continue to wait forever for responses they will never
+receive.
+
+This part of the training is time specific, so you will have to find the critical section in each
+thread. In this critical section, any manipulation will result in a race condition, where the
+data in one thread can be incorrectly placed in another one, since they share the same address in
+memory. In the BOS, our researchers concluded that the critical section is found at a certain
+burst time within the thread's run time. Therefore, you will have to manipulate the various
+burst times at this specific burst time to create the switch inside the critical section to
+make the race condition occur.
